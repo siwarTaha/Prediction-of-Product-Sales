@@ -1,6 +1,6 @@
 # Prediction of Product Sales
 
-**Author**: Siwar Ehwass
+**Author**: Siwar Ehwass 
 
 ### Business problem:
 Outlets want to know what affects their sales so they can plan things like inventory and pricing better. This project tries to predict how much a product will sell at an Outlet, based on things like the product's MRP and the type of store. The goal is to help the business understand what factors matter most for sales.
